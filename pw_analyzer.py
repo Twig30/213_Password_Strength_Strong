@@ -1,6 +1,6 @@
 # a213_pw_analyzer.py
-import time
-import pwalgorithms as pwa
+import time #Import the time module
+import pwalgorithms as pwa #import pwa module
 
 password = input("Enter password:")
 
